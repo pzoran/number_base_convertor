@@ -1,6 +1,6 @@
 fun main() {
     // write your code here
-    /*val number = readln()
+    val number = readln()
     var firstPartSum = 0
     var secondPartSum = 0
 
@@ -12,7 +12,5 @@ fun main() {
         secondPartSum += number[i].toInt()
     }
 
-    println(if (firstPartSum == secondPartSum) "YES" else "NO")*/
+    println(if (firstPartSum == secondPartSum) "YES" else "NO")
 }
-
-class Animal() 
