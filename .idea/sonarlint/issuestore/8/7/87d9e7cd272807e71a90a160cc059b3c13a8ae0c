@@ -1,15 +1,0 @@
-
-^Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(æĞÓ«
-U	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(æĞÓ«
-HWeb:TableWithoutCaptionCheck" Add a description to this table.(³åàÆ
-:	Web:S5256"%Add "<th>" headers to this "<table>".(³åàÆ
-D	Web:S1827"/Remove this deprecated "cellpadding" attribute.(³åàÆ
-D	Web:S1827"/Remove this deprecated "cellspacing" attribute.(³åàÆ
-DWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(æĞÓ«
-LWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(¶Ëö’ıÿÿÿÿ
-LWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(¶Ëö’ıÿÿÿÿ
-LWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(¶Ëö’ıÿÿÿÿ
-LWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(¶Ëö’ıÿÿÿÿ
-VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(¶Ëö’ıÿÿÿÿ
-VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(¶Ëö’ıÿÿÿÿ
-LWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(åø‡Åıÿÿÿÿ
