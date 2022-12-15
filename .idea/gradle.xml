@@ -156,6 +156,10 @@
             <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore" />
             <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore (1)" />
             <option value="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Corners" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Cube of zeros" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory" />
             <option value="$PROJECT_DIR$/Topics/Named arguments/Car price" />
             <option value="$PROJECT_DIR$/Topics/Named arguments/Car speed" />
             <option value="$PROJECT_DIR$/Topics/Named arguments/Correct invocations" />
@@ -178,6 +182,7 @@
             <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Lucky number" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Palindrome" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/The percentage of G and C characters" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
             <option value="$PROJECT_DIR$/Topics/Ranges/At least one" />

@@ -1,0 +1,9 @@
+
+^Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(ã¡
+U	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(ã¡
+DWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(ã¡
+GWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(½½Äã
+GWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(½½Äã
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(½½Äã
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(½½Äã
+LWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(åø‡Åıÿÿÿÿ
